@@ -1,0 +1,17 @@
+body{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 35px;
+    background-color: #cce6ff;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#heading{
+    background-color: #aaff00;
+}
+tbody{
+    background-color: #ffe6b3;
+}
